@@ -1,4 +1,3 @@
-original-bitcoin
-================
-
-This is a historical repository of Satoshi Nakamoto's original bitcoin sourcecode
+Bitcoin subversion clone
+========================
+This branch is a clone of the subversion tree, kept up-to-date via 'git svn fetch'.
